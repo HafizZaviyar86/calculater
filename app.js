@@ -20,6 +20,11 @@
      
  }
 
+ function results(){
+    var inputValue = document.getElementById("number")
+    console.log("inputValue", inputValue.value)
+ }
+
 
 
   
